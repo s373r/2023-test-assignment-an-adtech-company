@@ -1,5 +1,10 @@
 # [Dima Pristupa](https://dima.pristupa.dev/): test assignment for an adtech company
 
+## About
+
+- **Role:** Rust Back-End Engineer
+- **Task:** [TaskWebServer.pdf](./assets/TaskWebServer.pdf)
+
 ## Quick start
 
 ```shell
